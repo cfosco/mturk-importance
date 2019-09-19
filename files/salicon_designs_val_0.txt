@@ -1,0 +1,7 @@
+https://www.dropbox.com/s/b1tcc40fk88dol2/COCO_val2014_000000066072.jpg?raw=1
+https://www.dropbox.com/s/xpgvl0nsqvw6j7v/sentinel_notext13.png?raw=1
+https://www.dropbox.com/s/nkem35f3mjrskt2/COCO_val2014_000000066072_step2.png?raw=1
+https://www.dropbox.com/s/d1ey9sbh28gk5q7/sentinel_notext17.PNG?raw=1
+https://www.dropbox.com/s/fnqqnvbxlmjwv6r/COCO_val2014_000000066072_step3.png?raw=1
+https://www.dropbox.com/s/h81zctpbkebrw1n/sentinel13.PNG?raw=1
+https://www.dropbox.com/s/sjjorkuklgau7ni/COCO_val2014_000000066072_step4.png?raw=1
