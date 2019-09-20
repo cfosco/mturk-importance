@@ -27,7 +27,7 @@
         "duration": 1200,
         "lifetime": 186400,
         "taskUrl": "https://cfosco.github.io/mturk-importance/",
-        "fold": "salicon_designs_val_0.txt",
+        "fold": "salicon_designs_get_in_line.txt",
         "production": false
     },
 
