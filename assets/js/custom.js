@@ -59,9 +59,8 @@ var custom = {
                   {
                       var text = rawFile.responseText;
                       var allLines = text.split(/\r\n|\n/);
-                      allLines = allLines.filter(function (el) {
-                                                return el != null;
-                                              });
+                      print()
+                      allLines = allLines.filter(Boolean);
                       console.log('USING FOLD:', gup('url'))
                       console.log(allLines)
                       num_imgs_to_label = allLines.length
